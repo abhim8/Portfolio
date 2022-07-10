@@ -1,3 +1,3 @@
 # My Portfolio
-## *Do suggest if you have any changes in mind*
-## Thank you!!
+*Do suggest if you have any changes in mind*, 
+Thank you!!
